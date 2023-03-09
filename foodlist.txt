@@ -1,0 +1,90 @@
+
+Seaweed
+Animal fats
+Plant oils
+Meats and eggs
+
+Herbs and spices
+  Sage
+  Basil
+  Mentha
+  Turmeric
+  Cinnamon
+  Ginger
+  Rosemary
+  Garlic
+  Oregano
+  Parsley
+  Cayenne pepper
+  Thyme
+  Marjoram
+  Cumin
+  Basil
+  Cardamom
+  Coriander
+  Vanilla
+  Salt
+  Soy sauce
+  Chili
+
+Organs
+  Beef heart
+  Beef kidney
+  Beef liver
+  Pork heart
+  Pork kidney
+  Pork liver
+  Mutton heart
+  Mutton kidney
+  Mutton liver
+
+Green vegetables
+  Arugula
+  Asparagus
+  Broccoli
+  Brussel sprout
+  Cabbage
+  Collard green
+  Green bean
+  Kale
+  Pea
+  Spinach
+
+Non-green vegetables
+  Cauliflower
+  Beetroot
+  Red bell pepper
+  Carrot
+  Potato
+  Sweet potato
+  Tomato
+  Red cabbage
+  Red onion
+  Corn
+  White mushroom
+  Chanterelle
+
+Grains
+  Common wheat grains (soft white)
+  Durum wheat grains
+  Spelt grains (Dinkel)
+  Barley grains
+  Rye grains
+  Oats
+  Short-grain white rice
+  Short-grain brown rice
+  Bulgur
+  Quinoa
+
+Beans
+  Chickpea
+  Pinto bean
+  Kidney bean
+  Lima bean
+  Soybean
+
+Lentils
+  Red lentil
+  Green/brown lentil
+  Le Puy lentil
+  Black beluga lentil

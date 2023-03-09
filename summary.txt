@@ -1,0 +1,41 @@
+
+Micronutrients:
+  Essential fatty acids:
+    Omega-3, Omega-6
+  (Essential) vitamins:
+    A, C, D, E, K,
+    B1, B2, B3, B5, B6, B7, B9, B12
+  Essential amino acids:
+    Histidine, Isoleucine, Leucine,
+    Lysine, Methionine, Phenylalanine,
+    Threonine, Tryptophan, Valine
+  Essential minerals:
+    Potassium, Chloride, Sodium,
+    Calcium, Phosphorus, Magnesium,
+    Iron, Zinc, Manganese, Copper,
+    Iodine, Molybdenum, Selenium
+
+Note this list excludes conditionally essential micros.
+
+Vitamin D is a non-essential micro. Sun exposure makes your body
+synthesize it, but due to variable exposure and skin cancer concerns
+dietary recommendations assume it's all taken by mouth.
+
+The nutritional sheet does not list chloride and iodine, but table
+salt consists of chloride (it's literally sodium chloride) and many
+brands add iodine. Therefore salty foods will increase chloride (and
+sodium) intake and iodine if added.
+
+Some governmental bodies consider chromium as an essential mineral.
+The sheet doesn't list chromium because the data comes from the US
+where it's considered non-essential.
+Now talk about various food sources...
+
+Missing micros:
+Chloride
+Molybdenum
+B7
+Iodine
+
+Constrains:
+Does not mention antinutrients, mercury, "effective" protein

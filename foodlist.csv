@@ -1,0 +1,3 @@
+Food,Categories,Calories (kcal),Fat (g),Saturated fat(g),Monounsaturated fat (g),Polyunsaturated fat (g),alpha-Linolenic acid (g),Linoleic acid (g),Trans fats (g),Carbohydrate (g),Fiber (g),Sugar (g),Protein (g),Phenylalanine (g),Valine (g),Threonine (g),Tryptophan (g),Methionine (g),Leucine (g),Isoleucine (g),Lysine (g),Histidine (g),Water (g),Cholesterol (mg),Sources
+Cooked ground beef (90% fat),"Meat, beef",260,16.82,0,7.497,0.495,,,,0,0,0,25.54,,,,,,,,,,56.32,87,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1098213/nutrients
+Cooked ground beef (80% fat),"Meat, beef",,,,,,,,,,,,,,,,,,,,,,,,
